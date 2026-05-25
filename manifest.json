@@ -1,7 +1,7 @@
 {
   "name": "Разговорчики",
   "short_name": "Разговорчики",
-  "start_url": "./game.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f5f5f5",
   "theme_color": "#4CAF50",
